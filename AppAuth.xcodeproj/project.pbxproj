@@ -1961,7 +1961,7 @@
 				INFOPLIST_FILE = UnitTests/UnitTestsInfo.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.microsoft.runscope.all";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SWIFT_OBJC_BRIDGING_HEADER = "UnitTests/OIDAppAuthTests-Bridging-Header.h";
@@ -1980,7 +1980,7 @@
 				INFOPLIST_FILE = UnitTests/UnitTestsInfo.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.microsoft.runscope.all";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SWIFT_OBJC_BRIDGING_HEADER = "UnitTests/OIDAppAuthTests-Bridging-Header.h";
@@ -2000,7 +2000,7 @@
 				HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/";
 				INFOPLIST_FILE = UnitTests/UnitTestsInfo.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.microsoft.runscope.all";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SDKROOT = macosx;
@@ -2018,7 +2018,7 @@
 				HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/";
 				INFOPLIST_FILE = UnitTests/UnitTestsInfo.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.microsoft.runscope.all";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SDKROOT = macosx;
@@ -2034,7 +2034,7 @@
 				HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/";
 				INFOPLIST_FILE = UnitTests/UnitTestsInfo.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.microsoft.runscope.all";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SDKROOT = appletvos;
@@ -2051,7 +2051,7 @@
 				HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/";
 				INFOPLIST_FILE = UnitTests/UnitTestsInfo.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.microsoft.runscope.all";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SDKROOT = appletvos;
@@ -2103,7 +2103,7 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.microsoft.runscope.all";
 				PRODUCT_NAME = AppAuth;
 				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SKIP_INSTALL = YES;
@@ -2129,7 +2129,7 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.microsoft.runscope.all";
 				PRODUCT_NAME = AppAuth;
 				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SKIP_INSTALL = YES;
@@ -2149,7 +2149,7 @@
 				INFOPLIST_FILE = UnitTests/UnitTestsInfo.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.microsoft.runscope.all";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 			};
@@ -2165,7 +2165,7 @@
 				INFOPLIST_FILE = UnitTests/UnitTestsInfo.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.microsoft.runscope.all";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 			};
@@ -2187,7 +2187,7 @@
 				INFOPLIST_FILE = Source/Framework/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.microsoft.runscope.all";
 				PRODUCT_NAME = AppAuth;
 				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SDKROOT = watchos;
@@ -2215,7 +2215,7 @@
 				INFOPLIST_FILE = Source/Framework/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.microsoft.runscope.all";
 				PRODUCT_NAME = AppAuth;
 				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SDKROOT = watchos;
@@ -2242,7 +2242,7 @@
 				INFOPLIST_FILE = Source/Framework/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.microsoft.runscope.all";
 				PRODUCT_NAME = AppAUth;
 				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SDKROOT = appletvos;
@@ -2269,7 +2269,7 @@
 				INFOPLIST_FILE = Source/Framework/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.microsoft.runscope.all";
 				PRODUCT_NAME = AppAUth;
 				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SDKROOT = appletvos;
@@ -2290,7 +2290,7 @@
 				HEADER_SEARCH_PATHS = .;
 				INFOPLIST_FILE = UnitTests/UnitTestsInfo.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.microsoft.runscope.all";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SDKROOT = appletvos;
@@ -2307,7 +2307,7 @@
 				HEADER_SEARCH_PATHS = .;
 				INFOPLIST_FILE = UnitTests/UnitTestsInfo.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.microsoft.runscope.all";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SDKROOT = appletvos;
@@ -2333,7 +2333,7 @@
 				INFOPLIST_FILE = Source/Framework/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.microsoft.runscope.all";
 				PRODUCT_NAME = AppAuth;
 				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SDKROOT = macosx;
@@ -2361,7 +2361,7 @@
 				INFOPLIST_FILE = Source/Framework/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.microsoft.runscope.all";
 				PRODUCT_NAME = AppAuth;
 				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SDKROOT = macosx;
@@ -2382,7 +2382,7 @@
 				HEADER_SEARCH_PATHS = .;
 				INFOPLIST_FILE = UnitTests/UnitTestsInfo.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.microsoft.runscope.all";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SDKROOT = macosx;
@@ -2400,7 +2400,7 @@
 				HEADER_SEARCH_PATHS = .;
 				INFOPLIST_FILE = UnitTests/UnitTestsInfo.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.microsoft.runscope.all";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SDKROOT = macosx;
