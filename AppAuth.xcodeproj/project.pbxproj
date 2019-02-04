@@ -1249,13 +1249,16 @@
 				TargetAttributes = {
 					340DAE4D1D58216A00EC285B = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = UBF8T346G9;
 					};
 					340E737B1C5D819B0076B1F6 = {
 						CreatedOnToolsVersion = 7.2;
+						DevelopmentTeam = UBF8T346G9;
 					};
 					341741EF1C5D8283000EF209 = {
 						CreatedOnToolsVersion = 7.2;
 						LastSwiftMigration = 0900;
+						DevelopmentTeam = UBF8T346G9;
 					};
 					341AA4CD1E7F392C00FCA5C6 = {
 						CreatedOnToolsVersion = 8.2.1;
@@ -1264,42 +1267,52 @@
 					341AA4EC1E7F39F100FCA5C6 = {
 						CreatedOnToolsVersion = 8.2.1;
 						ProvisioningStyle = Automatic;
+						DevelopmentTeam = UBF8T346G9;
 					};
 					341E707D1DE18744004353C1 = {
 						CreatedOnToolsVersion = 8.2;
 						ProvisioningStyle = Automatic;
+						DevelopmentTeam = UBF8T346G9;
 					};
 					343AAA531E83463400F9D36E = {
 						CreatedOnToolsVersion = 8.2.1;
 						ProvisioningStyle = Automatic;
+						DevelopmentTeam = UBF8T346G9;
 					};
 					343AAA5B1E83463400F9D36E = {
 						CreatedOnToolsVersion = 8.2.1;
 						ProvisioningStyle = Automatic;
+						DevelopmentTeam = UBF8T346G9;
 					};
 					343AAA981E83487200F9D36E = {
 						CreatedOnToolsVersion = 8.2.1;
 						ProvisioningStyle = Automatic;
+						DevelopmentTeam = UBF8T346G9;
 					};
 					343AAAA51E83489A00F9D36E = {
 						CreatedOnToolsVersion = 8.2.1;
 						ProvisioningStyle = Automatic;
+						DevelopmentTeam = UBF8T346G9;
 					};
 					343AAAAD1E83489A00F9D36E = {
 						CreatedOnToolsVersion = 8.2.1;
 						ProvisioningStyle = Automatic;
+						DevelopmentTeam = UBF8T346G9;
 					};
 					343AAAC11E8348A900F9D36E = {
 						CreatedOnToolsVersion = 8.2.1;
 						ProvisioningStyle = Automatic;
+						DevelopmentTeam = UBF8T346G9;
 					};
 					343AAAC91E8348AA00F9D36E = {
 						CreatedOnToolsVersion = 8.2.1;
 						ProvisioningStyle = Automatic;
+						DevelopmentTeam = UBF8T346G9;
 					};
 					347423F51E7F4B5600D3E6D6 = {
 						CreatedOnToolsVersion = 8.2.1;
 						ProvisioningStyle = Automatic;
+						DevelopmentTeam = UBF8T346G9;
 					};
 				};
 			};
@@ -1816,7 +1829,10 @@
 				CLANG_ANALYZER_NONNULL = YES;
 				CODE_SIGN_IDENTITY = "-";
 				EXECUTABLE_PREFIX = lib;
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "5fc8b8fe-a070-48dd-8dc5-5aef62e0e346";
+				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
 			};
@@ -1829,7 +1845,10 @@
 				CLANG_ANALYZER_NONNULL = YES;
 				CODE_SIGN_IDENTITY = "-";
 				EXECUTABLE_PREFIX = lib;
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "5fc8b8fe-a070-48dd-8dc5-5aef62e0e346";
+				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
 			};
@@ -1884,6 +1903,9 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
+				PROVISIONING_PROFILE = "5fc8b8fe-a070-48dd-8dc5-5aef62e0e346";
+				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -1930,6 +1952,9 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
+				PROVISIONING_PROFILE = "5fc8b8fe-a070-48dd-8dc5-5aef62e0e346";
+				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				VALIDATE_PRODUCT = YES;
@@ -1939,7 +1964,10 @@
 		340E73861C5D819B0076B1F6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "5fc8b8fe-a070-48dd-8dc5-5aef62e0e346";
+				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SKIP_INSTALL = YES;
 			};
 			name = Debug;
@@ -1947,7 +1975,10 @@
 		340E73871C5D819B0076B1F6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "5fc8b8fe-a070-48dd-8dc5-5aef62e0e346";
+				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SKIP_INSTALL = YES;
 			};
 			name = Release;
@@ -1960,8 +1991,10 @@
 				INFOPLIST_FILE = UnitTests/UnitTestsInfo.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = net.openid.appauth.AppAuthTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "5fc8b8fe-a070-48dd-8dc5-5aef62e0e346";
+				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SWIFT_OBJC_BRIDGING_HEADER = "UnitTests/OIDAppAuthTests-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Off;
@@ -1977,8 +2010,10 @@
 				INFOPLIST_FILE = UnitTests/UnitTestsInfo.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = net.openid.appauth.AppAuthTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "5fc8b8fe-a070-48dd-8dc5-5aef62e0e346";
+				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SWIFT_OBJC_BRIDGING_HEADER = "UnitTests/OIDAppAuthTests-Bridging-Header.h";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Off;
 				SWIFT_VERSION = 4.0;
@@ -1995,8 +2030,10 @@
 				HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/";
 				INFOPLIST_FILE = UnitTests/UnitTestsInfo.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "net.openid.AppAuth-macOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "5fc8b8fe-a070-48dd-8dc5-5aef62e0e346";
+				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SDKROOT = macosx;
 			};
 			name = Debug;
@@ -2011,8 +2048,10 @@
 				HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/";
 				INFOPLIST_FILE = UnitTests/UnitTestsInfo.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "net.openid.AppAuth-macOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "5fc8b8fe-a070-48dd-8dc5-5aef62e0e346";
+				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SDKROOT = macosx;
 			};
 			name = Release;
@@ -2025,8 +2064,10 @@
 				HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/";
 				INFOPLIST_FILE = UnitTests/UnitTestsInfo.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "net.openid.AppAuth-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "5fc8b8fe-a070-48dd-8dc5-5aef62e0e346";
+				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SDKROOT = appletvos;
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
@@ -2040,8 +2081,10 @@
 				HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/";
 				INFOPLIST_FILE = UnitTests/UnitTestsInfo.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "net.openid.AppAuth-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "5fc8b8fe-a070-48dd-8dc5-5aef62e0e346";
+				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SDKROOT = appletvos;
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
@@ -2054,7 +2097,10 @@
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "5fc8b8fe-a070-48dd-8dc5-5aef62e0e346";
+				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
 				TVOS_DEPLOYMENT_TARGET = 10.1;
@@ -2068,7 +2114,10 @@
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "5fc8b8fe-a070-48dd-8dc5-5aef62e0e346";
+				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
 				TVOS_DEPLOYMENT_TARGET = 10.1;
@@ -2090,8 +2139,10 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "meirav.net.openid.AppAuth-iOS";
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = AppAuth;
+				PROVISIONING_PROFILE = "5fc8b8fe-a070-48dd-8dc5-5aef62e0e346";
+				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
@@ -2114,8 +2165,10 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "meirav.net.openid.AppAuth-iOS";
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = AppAuth;
+				PROVISIONING_PROFILE = "5fc8b8fe-a070-48dd-8dc5-5aef62e0e346";
+				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
@@ -2132,8 +2185,10 @@
 				INFOPLIST_FILE = UnitTests/UnitTestsInfo.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "net.openid.AppAuth-iOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "5fc8b8fe-a070-48dd-8dc5-5aef62e0e346";
+				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 			};
 			name = Debug;
 		};
@@ -2146,8 +2201,10 @@
 				INFOPLIST_FILE = UnitTests/UnitTestsInfo.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "net.openid.AppAuth-iOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "5fc8b8fe-a070-48dd-8dc5-5aef62e0e346";
+				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 			};
 			name = Release;
 		};
@@ -2166,8 +2223,10 @@
 				INFOPLIST_FILE = Source/Framework/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "net.openid.AppAuth-watchOS";
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = AppAuth;
+				PROVISIONING_PROFILE = "5fc8b8fe-a070-48dd-8dc5-5aef62e0e346";
+				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = 4;
@@ -2192,8 +2251,10 @@
 				INFOPLIST_FILE = Source/Framework/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "net.openid.AppAuth-watchOS";
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = AppAuth;
+				PROVISIONING_PROFILE = "5fc8b8fe-a070-48dd-8dc5-5aef62e0e346";
+				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = 4;
@@ -2217,8 +2278,10 @@
 				INFOPLIST_FILE = Source/Framework/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "net.openid.AppAuth-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = AppAUth;
+				PROVISIONING_PROFILE = "5fc8b8fe-a070-48dd-8dc5-5aef62e0e346";
+				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -2242,8 +2305,10 @@
 				INFOPLIST_FILE = Source/Framework/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "net.openid.AppAuth-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = AppAUth;
+				PROVISIONING_PROFILE = "5fc8b8fe-a070-48dd-8dc5-5aef62e0e346";
+				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -2261,8 +2326,10 @@
 				HEADER_SEARCH_PATHS = .;
 				INFOPLIST_FILE = UnitTests/UnitTestsInfo.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "net.openid.AppAuth-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "5fc8b8fe-a070-48dd-8dc5-5aef62e0e346";
+				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SDKROOT = appletvos;
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
@@ -2276,8 +2343,10 @@
 				HEADER_SEARCH_PATHS = .;
 				INFOPLIST_FILE = UnitTests/UnitTestsInfo.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "net.openid.AppAuth-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "5fc8b8fe-a070-48dd-8dc5-5aef62e0e346";
+				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SDKROOT = appletvos;
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
@@ -2300,8 +2369,10 @@
 				INFOPLIST_FILE = Source/Framework/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "net.openid.AppAuth-macOS";
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = AppAuth;
+				PROVISIONING_PROFILE = "5fc8b8fe-a070-48dd-8dc5-5aef62e0e346";
+				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -2326,8 +2397,10 @@
 				INFOPLIST_FILE = Source/Framework/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "net.openid.AppAuth-macOS";
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = AppAuth;
+				PROVISIONING_PROFILE = "5fc8b8fe-a070-48dd-8dc5-5aef62e0e346";
+				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -2345,8 +2418,10 @@
 				HEADER_SEARCH_PATHS = .;
 				INFOPLIST_FILE = UnitTests/UnitTestsInfo.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "net.openid.AppAuth-macOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "5fc8b8fe-a070-48dd-8dc5-5aef62e0e346";
+				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SDKROOT = macosx;
 			};
 			name = Debug;
@@ -2361,8 +2436,10 @@
 				HEADER_SEARCH_PATHS = .;
 				INFOPLIST_FILE = UnitTests/UnitTestsInfo.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "net.openid.AppAuth-macOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "5fc8b8fe-a070-48dd-8dc5-5aef62e0e346";
+				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SDKROOT = macosx;
 			};
 			name = Release;
@@ -2373,7 +2450,10 @@
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "5fc8b8fe-a070-48dd-8dc5-5aef62e0e346";
+				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
 				WATCHOS_DEPLOYMENT_TARGET = 3.1;
@@ -2386,7 +2466,10 @@
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "5fc8b8fe-a070-48dd-8dc5-5aef62e0e346";
+				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
 				WATCHOS_DEPLOYMENT_TARGET = 3.1;
